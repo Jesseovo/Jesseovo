@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="60" viewBox="0 0 208 60" role="img" aria-labelledby="title desc">
+<title id="title">Email</title>
+<desc id="desc">Jesseovo1219@gmail.com</desc>
+<g transform="translate(2 10) scale(2)" shape-rendering="crispEdges">
+<path d="M5 6h22v2h2v15H3V8h2z" fill="#91a595"/>
+<path d="M5 8h22v13H5z" fill="#eee7d5"/>
+<path d="M5 8h3v2h3v2h3v2h4v-2h3v-2h3V8h3v3h-3v2h-3v2h-3v2h-4v-2h-3v-2H8v-2H5z" fill="#c7baa3"/>
+<path d="M5 20h3v-2h3v-2h2v2h-2v2H8v1H5zM27 20h-3v-2h-3v-2h-2v2h2v2h3v1h3z" fill="#d9cdb6"/>
+<path d="M14 13h4v1h1v3h-1v1h-4v-1h-1v-3h1z" fill="#d2a095"/>
+<path d="M15 14h2v2h-2z" fill="#e9bdb0"/>
+<path d="M25 3h2v2h-2zM29 5h2v1h-2z" fill="#97aebc"/>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="80" y="26" font-size="12.5" font-weight="500" fill="#36463e">Email</text>
+<text x="80" y="43" font-size="10.5" fill="#7a887f">Jesseovo1219@gmail.com</text>
+</g>
+</svg>

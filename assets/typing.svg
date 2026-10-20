@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="48" viewBox="0 0 600 48" role="img" aria-labelledby="title">
+<title id="title">Welcome to my little corner of GitHub</title>
+<style>text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+.line{opacity:0;animation:show 20s steps(1,end) infinite}
+.line-0{opacity:1}.line-1{animation-delay:5s}.line-2{animation-delay:10s}.line-3{animation-delay:15s}
+.reveal{animation:type 20s steps(36,end) infinite;transform-box:fill-box;transform-origin:left}
+.reveal-1{animation-delay:5s}.reveal-2{animation-delay:10s}.reveal-3{animation-delay:15s}
+@keyframes show{0%,24.99%{opacity:1}25%,100%{opacity:0}}
+@keyframes type{0%{transform:scaleX(0)}12%,20.25%{transform:scaleX(1)}25%,100%{transform:scaleX(0)}}
+@media(prefers-reduced-motion:reduce){.line,.reveal{animation:none}.line{opacity:0}.line-0{opacity:1}}
+</style>
+<g class="line line-0">
+<clipPath id="reveal-0"><rect class="reveal reveal-0" x="111.0" y="0" width="388" height="48"/></clipPath>
+<text x="111.0" y="30" font-size="16" letter-spacing=".2" fill="#58a6ff" clip-path="url(#reveal-0)">Welcome to my little corner of GitHub.</text>
+</g>
+<g class="line line-1">
+<clipPath id="reveal-1"><rect class="reveal reveal-1" x="96.0" y="0" width="418" height="48"/></clipPath>
+<text x="96.0" y="30" font-size="16" letter-spacing=".2" fill="#58a6ff" clip-path="url(#reveal-1)">Making useful things. Keeping it playful.</text>
+</g>
+<g class="line line-2">
+<clipPath id="reveal-2"><rect class="reveal reveal-2" x="126.0" y="0" width="358" height="48"/></clipPath>
+<text x="126.0" y="30" font-size="16" letter-spacing=".2" fill="#58a6ff" clip-path="url(#reveal-2)">A little curiosity goes a long way.</text>
+</g>
+<g class="line line-3">
+<clipPath id="reveal-3"><rect class="reveal reveal-3" x="94.2" y="0" width="420" height="48"/></clipPath>
+<text x="94.2" y="30" font-size="16" letter-spacing=".2" fill="#58a6ff" clip-path="url(#reveal-3)">Aware of my shortcomings, I keep striving.</text>
+</g>
+</svg>

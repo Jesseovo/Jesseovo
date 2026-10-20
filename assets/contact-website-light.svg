@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="60" viewBox="0 0 176 60" role="img" aria-labelledby="title desc">
+<title id="title">Website</title>
+<desc id="desc">jesseovo.qzz.io</desc>
+<g transform="translate(2 8) scale(2)" shape-rendering="crispEdges">
+<path d="M5 4h23v2h2v17H3V6h2z" fill="#97aebc"/>
+<path d="M5 6h23v4H5z" fill="#d7e3df"/>
+<path d="M5 11h23v10H5z" fill="#eee7d5"/>
+<path d="M6 7h1v1H6zM9 7h1v1H9zM12 7h1v1h-1z" fill="#a9b7af"/>
+<path d="M16 7h10v1H16z" fill="#f3f1e7"/>
+<path d="M8 13h6v2H8zM8 17h12v1H8zM8 19h9v1H8z" fill="#91a595"/>
+<path d="M24 15h2v2h2v2h2v2h-3v3h-2v-3h-1z" fill="#bca28c"/>
+<path d="M25 17h1v2h2v1h-3z" fill="#eee0cb"/>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="80" y="26" font-size="12.5" font-weight="500" fill="#36463e">Website</text>
+<text x="80" y="43" font-size="10.5" fill="#7a887f">jesseovo.qzz.io</text>
+</g>
+</svg>
