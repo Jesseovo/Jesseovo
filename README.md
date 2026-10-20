@@ -33,8 +33,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake-dark.svg?v=1" />
-    <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake.svg?v=1" width="880" alt="Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake-dark.svg?v=3b736db8f3d8" />
+    <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake.svg?v=3b736db8f3d8" width="880" alt="Contribution Snake" />
   </picture>
 </p>
 
