@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Jesse <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/main/assets/pixel-cat-walk.gif" width="320" height="80" alt="来回散步、招手、歪头、伸懒腰和小跳跃的像素小猫" /></h1>
+<h1>Hi there, I'm Jesse <picture><img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/main/assets/pixel-cat-walk.gif" width="320" height="80" align="middle" alt="来回散步、招手、歪头、伸懒腰和小跳跃的像素小猫" /></picture></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/main/assets/typing.svg" width="600" alt="Welcome to my little corner of GitHub · Making useful things. Keeping it playful. · A little curiosity goes a long way. · Aware of my shortcomings, I keep striving." />
@@ -33,8 +33,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake.svg" width="880" alt="Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake-dark.svg?v=1" />
+    <img src="https://raw.githubusercontent.com/Jesseovo/Jesseovo/output/github-snake.svg?v=1" width="880" alt="Contribution Snake" />
   </picture>
 </p>
 
